@@ -1,0 +1,8 @@
+# Force consistent LF endings for text files
+*.py text eol=lf
+*.html text eol=lf
+*.sql text eol=lf
+
+# Binary files (like images) are untouched
+*.png binary
+*.jpg binary
