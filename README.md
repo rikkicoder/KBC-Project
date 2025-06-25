@@ -1,4 +1,4 @@
-# Koun Banega Crorepati (KBC++)
+# Kaun Banega Crorepati (KBC++)
 
 A fun and interactive quiz game inspired by the popular KBC show. This project features a dynamic game interface, multiple lifelines, real-time score tracking, and an engaging user experience.
 
